@@ -1,7 +1,7 @@
-document.getElementById('nama').innerHTML = 'AMALIA HUSNA';
-$('#nim').html('20190140096');
+document.getElementById('nama').innerHTML = 'RADITYA PRATAMA PUTRA';
+$('#nim').html('20190140101');
 $(function() {
-    console.log("Hello");
+    console.log("Hello It's Me :) ");
 });
 $("#hide").on("click", function() {
     $("#nama").hide();
